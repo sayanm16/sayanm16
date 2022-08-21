@@ -73,12 +73,12 @@
 <br>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanm16&show_icons=true&locale=en&layout=compact" alt="sayanm16" /></p>
+<p><img align="left" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanm16&show_icons=true&locale=en&layout=compact" alt="sayanm16" /></p>
 
 <br><br><br><br><br><br><br>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm16&" alt="sayanm16" />&emsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanm16&show_icons=true&locale=en" alt="sayanm16" />
+<img align="center" width = "300" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm16&" alt="sayanm16" />&emsp;
+<img align="center" width = "300" src="https://github-readme-stats.vercel.app/api?username=sayanm16&show_icons=true&locale=en" alt="sayanm16" />
 </p>
 
