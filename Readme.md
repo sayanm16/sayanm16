@@ -78,7 +78,7 @@
 <br><br><br><br><br><br><br>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm16&" alt="sayanm16" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm16&" alt="sayanm16" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanm16&show_icons=true&locale=en" alt="sayanm16" />
 </p>
 
