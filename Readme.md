@@ -1,4 +1,4 @@
-![MasterHead][![@sayanm16's Holopin board](https://holopin.me/sayanm16)](https://holopin.io/@sayanm16)
+[![@sayanm16's Holopin board](https://holopin.me/sayanm16)](https://holopin.io/@sayanm16)
 
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
 <h3 align="center">A passionate Computer Science Student and an Open Source Enthusiast</h3>
