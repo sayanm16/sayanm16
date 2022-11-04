@@ -11,6 +11,8 @@
 
 <br>
 
+- 💻 I’m currently working at Open Codeyard
+  
 - 🌱 I’m currently learning **Flutter, Android Development, Google Cloud**
 
 - 📫 How to reach me **sayan16.deep@gmail.com**
